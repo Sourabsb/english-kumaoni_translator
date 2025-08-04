@@ -1,0 +1,14 @@
+torch
+transformers
+peft
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+datasets
+gradio
+accelerate
+tiktoken
+protobuf
+sentencepiece
